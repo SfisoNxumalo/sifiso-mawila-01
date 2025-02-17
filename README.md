@@ -1,7 +1,7 @@
 ﻿# sifiso-mawila-01
 
 ## Description
-This is a simple rock, paper, scissors game built C#. It runs on the console.
+This is a simple rock, paper, scissors game built with C#. It runs on the terminal.
 
 ## Prerequisites
 Before running the application, ensure you have the following installed:
